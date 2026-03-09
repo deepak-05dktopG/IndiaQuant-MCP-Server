@@ -113,3 +113,17 @@ yfinance IV data is frequently stale or malformed. When missing, the server degr
 
 **4. Concurrent DB Writes**
 The SQLite database `portfolio.db` uses simple locking. If Claude calls `place_virtual_trade` highly asynchronously in parallel, `sqlite3.OperationalError` (database locked) may occur. This is acceptable for a single-user agentic interface but not for a high-frequency websocket backend.
+<br>
+<h2>📬 Contact</h2>
+
+<ul>
+  <li>✉️ Email: <a href="mailto:kumardeepak59422@gmail.com ">kumardeepak59422@gmail.com</a></li>
+  <li>👨‍💼 LinkedIn: <a href="https://www.linkedin.com/in/deepak-05dktopg/" target="_blank">https://www.linkedin.com/in/deepak-05dktopg/</a></li>
+</ul>
+
+<hr/>
+
+<p align="center">
+  ⭐ If you like this project, consider giving it a star and sharing it!<br/>
+  Contributions and feedback are welcome 🙌
+</p>
