@@ -1,0 +1,28 @@
+# ── Core MCP Framework ─────────────────────────────────────────────────────────
+mcp>=1.0.0
+
+# ── Market Data ─────────────────────────────────────────────────────────────────
+yfinance>=0.2.38
+pandas>=2.0.0
+numpy>=1.26.0
+
+# ── Technical Analysis ──────────────────────────────────────────────────────────
+pandas-ta>=0.3.14b
+
+# ── Options / Quant Math ────────────────────────────────────────────────────────
+scipy>=1.12.0              # scipy.stats.norm used in Black-Scholes
+
+# ── Sentiment & News ───────────────────────────────────────────────────────────
+requests>=2.31.0           # NewsAPI calls
+textblob>=0.18.0           # lightweight NLP sentiment scoring
+
+# ── Async & Caching ────────────────────────────────────────────────────────────
+cachetools>=5.3.0          # TTL cache for live prices
+httpx>=0.27.0              # async HTTP for concurrency
+
+# ── Database (virtual portfolio) ───────────────────────────────────────────────
+# sqlite3 is part of Python stdlib — no extra install needed
+
+# ── Utilities ──────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0       # load .env secrets
+pytz>=2024.1               # IST timezone handling

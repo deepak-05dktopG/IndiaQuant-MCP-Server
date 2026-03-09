@@ -1,0 +1,2 @@
+# SQLite database lives here at runtime (created automatically by portfolio_manager.py).
+# This .gitkeep ensures the data/ directory is tracked by git.

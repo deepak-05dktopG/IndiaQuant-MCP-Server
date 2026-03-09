@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "indiaquant": {
+      "command": "C:/Users/91902/AppData/Local/Programs/Python/Python311/python.exe",
+      "args": [
+        "C:/Users/91902/Desktop/IndiaQuant-MCP-Server/mcp_server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "C:/Users/91902/Desktop/IndiaQuant-MCP-Server",
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
