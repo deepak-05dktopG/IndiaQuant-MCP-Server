@@ -337,7 +337,7 @@ async def call_tool(name: str, arguments: dict[str, Any]) -> list[TextContent]:
         elif name == "detect_unusual_activity":
             return _ok(_detect_unusual_activity(arguments["symbol"]))
 
-        # ── 9. scan_market ──────────────────────────────────────────────────
+        # ── 9. scan_market ─────────────────────────────────────────────────
         elif name == "scan_market":
             return _ok(_scan_market(
                 rsi_max=float(arguments.get("rsi_max", 100)),

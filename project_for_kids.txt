@@ -1,0 +1,41 @@
+========================================================================
+🌟🌟🌟 WELCOME TO THE MAGIC MONEY ROBOT PROJECT! (IndiaQuant) 🌟🌟🌟
+========================================================================
+
+Imagine you have a super smart robot friend named Claude. Claude is really good at talking, but he can't see the outside world. He doesn't know how many toys exist or what they cost today.
+
+Our project is like giving Claude a magic telephone that connects him directly to a giant toy store (the Indian Stock Market)! 
+
+With this magic telephone (called an MCP Server), Claude can do amazing things:
+
+🤖 1. ASK FOR PRICES (get_live_price)
+Claude can call the store and say, "How much does the Reliance toy cost right now?" And the magic telephone tells him the exact price instantly!
+
+🌡️ 2. CHECK THE WEATHER (get_sector_heatmap)
+Claude can look at a magical map to see if all the toy cars are getting more expensive, or if all the building blocks are getting cheaper today.
+
+🗞️ 3. READ THE NEWS (analyze_sentiment)
+Claude can read all the morning newspapers in a split second. Then, he'll tell you if people are feeling happy (BULLISH) or sad (BEARISH) about a certain toy.
+
+🚦 4. GET A GREEN LIGHT (generate_signal)
+By looking at secret math magic dots (like RSI and MACD), Claude's magic telephone can whisper to him: "BUY this toy now," or "SELL this toy now," or just "Wait and HOLD."
+
+🎮 5. PLAY A PRACTICE GAME (place_virtual_trade & get_portfolio_pnl)
+The best part? Claude has a pretend wallet! He can pretend to buy and sell toys using fake money to practice. Later, he can check his wallet to see if he won or lost the game!
+
+⚡ 6. THE SUPER ADVANCED MATH MAGIC (Greeks & Options)
+For older wizards, the magic telephone does super hard math (Black-Scholes) to figure out exactly how the price of a toy coupon might drop over time or change if the world gets chaotic!
+
+---
+
+🎯 HOW IT ALL WORKS TOGETHER:
+1. You talk to Claude on your computer.
+2. Claude uses the "IndiaQuant Magic Telephone."
+3. The telephone calls the real world (using Python).
+4. The real world sends facts back to the telephone.
+5. Claude tells you the answer like magic!
+
+========================================================================
+✨ Now Claude isn't just a talking robot—he's a Talking Robot who plays 
+   the Stock Market Game! ✨
+========================================================================
